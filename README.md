@@ -99,6 +99,7 @@ Potential providers are as follows. If you would like to contribute one, follow 
 - ironDNS ([docs](https://www.irondns.net/download/soapapiguide.pdf;jsessionid=02A1029AA9FB8BACD2048A60F54668C0)) :dollar: <sub>requires paid account</sub>
 - ISPConfig
 - InternetX autoDNS ([docs](https://internetx.com))
+- Joker ([docs])(https://joker.com/faq/content/6/496/de/let_s-encrypt-support.html?highlight=letsencrypt)
 - Knot DNS
 - KingHost
 - Liquidweb ([docs](https://www.liquidweb.com/storm/api/docs/v1/Network/DNS/Zone.html)) :dollar: <sub>requires paid account</sub>
